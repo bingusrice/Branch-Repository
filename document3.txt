@@ -1,0 +1,3 @@
+import random
+
+print("오픈소스SW기초 A+ 기원")
